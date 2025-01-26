@@ -1,5 +1,9 @@
 {
-  "allowedIPs": [
-    "167.99.114.128"
-   ]
+  "tokens": [
+    "7975610459:AAFtowv1HgqKNNFGZKMK54ibib6VigWk5eQ", 
+    "7682514927:AAGh1naoilXeUKro9n71b_LlLXRGLkePtJA", 
+    "7011341805:AAG_27u7B-GHQnyvgGnT9nTzk-kQn0YOFoY", 
+    "7828234830:AAGUjYNEI9OyDrRzmHhQF_b6PQWfeNVY_qI", 
+    "8179670931:AAFUt1JnZLmS-Xd1VQAsLEWA3KV5J0H76lU"
+  ]
 }
